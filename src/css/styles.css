@@ -4,6 +4,7 @@
 @import url('../css/home.css');
 @import url('../css/trending.css');
 @import url('../css/about.css');
+@import url('../css/products.css');
 
 
 * {
@@ -18,7 +19,6 @@
 
     background-image: url('../images/background-mobile.png');
     background-size: contain;
-    height: 400vh;
 
 }
 
